@@ -1,4 +1,4 @@
-# VeeServe — MERN Stack
+# LOCALLINK — MERN Stack
 
 A full-stack home services platform (like UrbanClap) built with **MongoDB, Express, React, Node.js**.
 
